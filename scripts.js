@@ -2,7 +2,7 @@ const app = document.getElementById('root');
 
 const logo = document.createElement('img');
 
-logo.src = 'https://upload.wikimedia.org/wikipedia/sco/thumb/c/ca/Studio_Ghibli_logo.svg/800px-Studio_Ghibli_logo.svg.png';
+logo.src = 'https://www.pngkey.com/png/detail/121-1211243_six-animated-films-you-should-watch-from-studio.png';
 
 const container = document.createElement('div');
 container.setAttribute('class', 'container');
