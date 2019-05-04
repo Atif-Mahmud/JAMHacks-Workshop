@@ -2,7 +2,7 @@ const app = document.getElementById('root');
 
 const logo = document.createElement('img');
 
-logo.src = 'https://i.imgur.com/VQSX8oo.png';
+logo.src = 'https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/1200px-Studio_Ghibli_logo.svg.png';
 
 const container = document.createElement('div');
 container.setAttribute('class', 'container');
